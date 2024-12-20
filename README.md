@@ -17,6 +17,7 @@ Check out the demo video of this app: [Watch Video](https://drive.google.com/fil
 1. Clone this repository:
    ```bash
    git clone https://github.com/neha-gulabani/repos.git
+   cd ./repos
 
    ```
 
